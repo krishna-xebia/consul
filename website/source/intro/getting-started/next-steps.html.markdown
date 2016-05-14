@@ -8,7 +8,7 @@ description: |-
 
 # Next Steps
 
-That concludes the getting started guide for Consul. Hopefully you're able to
+That concludes the getting started guide for Consul. Hopefully you're o
 see that while Consul is simple to use, it has a powerful set of features.
 We've covered the basics for all of these features in this guide.
 
